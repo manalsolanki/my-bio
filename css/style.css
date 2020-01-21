@@ -1,0 +1,44 @@
+body{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('../image/background.jpg');
+    background-color: rgb(213, 233, 229);  
+    background-size: contain;
+    background-attachment: fixed;
+     
+     
+     
+}
+.main-page-heading{
+    color: rgb(13, 45, 99);
+    text-align:center;
+    font-family: verdana ;
+    font-size : 3em;
+}
+    
+.paragraph-text{
+    color: black;
+    font-family: Helvetica;
+    
+
+}
+.subtitle{
+    color: rgb(158, 105, 86);
+    font-family: serif;
+    font-weight: 700;
+    font-style: oblique;
+    
+    
+}
+
+.contact-information{
+    background-color: bisque;
+    font-family: sans-serif ;   
+    
+}
+.center-it{
+    text-align: center;
+}
